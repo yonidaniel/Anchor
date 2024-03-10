@@ -7,14 +7,14 @@ Values ​​entered as "double" are converted to "float" - this has been done f
 In the database file, there are 2 lines of code that you need to uncomment for the first time (you can comment on it after the first run)
 
 Make sure you have all the import installed:
-sqlalchemy
-sqlalchemy.orm
-unittest
-typing
-fastapi
-flask_sqlalchemy.session
-json
-pydantic
+* sqlalchemy
+* sqlalchemy.orm
+* unittest
+* typing
+* fastapi
+* flask_sqlalchemy.session
+* json
+* pydantic
 
 You can't lookup from one spreadsheet to another
 
